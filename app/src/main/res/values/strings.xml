@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kanban System</string>
+    <string name="hint">MAC验证</string>
+</resources>
